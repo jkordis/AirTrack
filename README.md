@@ -1,4 +1,4 @@
-![Demo](https://i.imgur.com/p2EMywZ.mp4)
+[Imgur](https://imgur.com/n1oooOn)
 
 # AirTrack 
 

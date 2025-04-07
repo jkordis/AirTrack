@@ -1,7 +1,4 @@
 
-![Screenshot](example.png)
-
-
 # AirTrack 
 
 Author: John Kordis
@@ -18,6 +15,12 @@ AirTrack is a real-time aircraft tracker that displays flight data overhead usin
 - Color-coded output with ASCII animation
 - Logs unknown aircraft for enrichment
 - If you want to change the refresh rate you can do so in the code pretty easily
+
+
+
+![Screenshot](example.png)
+
+
 
 ## Setup
 

@@ -1,0 +1,23 @@
+{
+  "JBU": "Airbus A320",
+  "DAL": "Boeing 737-800",
+  "UAL": "Boeing 757-200",
+  "AAL": "Airbus A321",
+  "SWA": "Boeing 737 MAX 8",
+  "ASA": "Boeing 737-900ER",
+  "FFT": "Airbus A320neo",
+  "NKS": "Airbus A319",
+  "JZA": "Bombardier CRJ-900",
+  "RPA": "Embraer E175",
+  "SKW": "Bombardier CRJ-700",
+  "ENY": "Embraer E145",
+  "EDV": "CRJ-200",
+  "KAP": "Cessna 172",
+  "LXJ": "Bombardier Challenger 300",
+  "N": "Private Aircraft",
+  "EJA": "Embraer Phenom 300",
+  "FDX": "McDonnell Douglas MD-11F",
+  "UPS": "Boeing 757-200F",
+  "ABX": "Boeing 767-200F",
+  "GTI": "Boeing 747-400F"
+}

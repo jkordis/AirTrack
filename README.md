@@ -1,4 +1,4 @@
-![Demo](ex2.gif)
+![Demo](ex2.gif) 
 
 # AirTrack 
 

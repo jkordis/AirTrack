@@ -1,4 +1,10 @@
+
+![Screenshot](example.png)
+
+
 # AirTrack 
+
+Author: John Kordis
 
 AirTrack is a real-time aircraft tracker that displays flight data overhead using the OpenSky Network API. I started with a script I made myself and worked with ChatGPT to help pretty it up a bit. A lot of the cosmetic stuff I've never done before so I used this as a learning experience through LLM. A while back, I had the idea of wanting to code something that shows me what planes are near me because I live near a local airport and on the flightpath to a larger hub airport. This is just a way for me to practice a bit.
 

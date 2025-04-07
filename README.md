@@ -1,4 +1,4 @@
-[Imgur](https://imgur.com/n1oooOn)
+![Demo](ex2.gif)
 
 # AirTrack 
 
